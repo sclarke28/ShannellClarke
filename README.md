@@ -1,6 +1,8 @@
-### Hi there 👋, Shannell Clarke 
-#### Java & Frontend Developer 
 ![Java & Frontend Developer ](https://previews.123rf.com/images/andreysuslov/andreysuslov2205/andreysuslov220500001/185416609-coding-code-of-program-on-desktop-pc-computer-of-programmer-on-desk-abstract-icons-diagrams-graphs-o.jpg)
+
+
+### Hi there 👋, I'm Shannell Clarke 
+#### Java & Frontend Developer 
 
 I'm Shannell from NJ, and currently working on Java Development.  I enjoy learning all coding languages as well creating java software. I also enjoy frontend development showcasing my skills in HTML & CSS .
 
