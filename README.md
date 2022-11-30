@@ -6,7 +6,9 @@
 
 I'm Shannell from NJ, and currently working on Java Development.  I enjoy learning all coding languages as well creating java software. I also enjoy frontend development showcasing my skills in HTML & CSS .
 
-Skills: Java Development/ JS/HTML / CSS
+##Skills & Experience
+-
+Java Development/ JS/HTML / CSS
 
 - 🔭 I’m currently working on Java Development  
 - 🌱 I’m currently learning Frontend Development  
